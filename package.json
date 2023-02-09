@@ -1,0 +1,13 @@
+{
+  "name": "ton-dao-vote-helpers",
+  "version": "1.0.0",
+  "description": "Helpers for ton dao vote on remove frozen addresses",
+  "author": "Ami Hazbany",
+  "license": "MIT",
+  "dependencies": {
+    "@orbs-network/ton-access": "^2.2.2",
+    "bignumber.js": "^9.1.1",
+    "buffer": "^6.0.3",
+    "ton": "^12.0.0"
+  }  
+}
