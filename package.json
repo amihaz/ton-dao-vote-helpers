@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Helpers for ton dao vote on remove frozen addresses",
   "author": "Ami Hazbany",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amihaz/ton-dao-vote-helpers"
+  },  
   "license": "MIT",
   "dependencies": {
     "@orbs-network/ton-access": "^2.2.2",
